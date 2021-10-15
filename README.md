@@ -19,7 +19,7 @@
 ##
   
 <div align="right">
-    <img align="right" alt="Fabricio-imagem" height="150" style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/10535200?s=400&u=d14a43b5b2025120ca45136a1db76cc514a2a960&v=4?width=676&height=676">
+    <img align="right" alt="Fabricio-imagem" height="120" src="https://media-exp1.licdn.com/dms/image/C4D03AQEavvV6ifuvaA/profile-displayphoto-shrink_200_200/0/1617832592492?e=1639612800&v=beta&t=LvDSaPKGw_KxhUyj1zh-_nr1iN6YkNX4xAX8uPMaP10">
   
   <br /><br />
   <a href="https://www.linkedin.com/in/fabricio-messias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
