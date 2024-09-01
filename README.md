@@ -24,7 +24,7 @@
     <!---<a href="https://www.linkedin.com/in/fabricio-messias/" target="_blank"><img align="right" alt="Fabricio-imagem" height="110" src=""></a> --->
   
   <a href="https://www.linkedin.com/in/fabricio-messias/" target="_blank">
-  <img align="center" alt="linkedin" height="110" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
+  <img align="right" alt="linkedin" height="110" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
   <br /><br />
 </div>
   
