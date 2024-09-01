@@ -20,7 +20,7 @@
 
 ##
   
-<div align="right">
+<div align="center">
     <!---<a href="https://www.linkedin.com/in/fabricio-messias/" target="_blank"><img align="right" alt="Fabricio-imagem" height="110" src=""></a> --->
   
   <a href="https://www.linkedin.com/in/fabricio-messias/" target="_blank">
